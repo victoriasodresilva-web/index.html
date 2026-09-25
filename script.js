@@ -14,7 +14,7 @@ if (media >= 7 ){
 }
 else if (mnedia < 5){
     situacao = "RECUPERAÇÃO"
-} else {
+}else {
     situacao = "REPROVADO"
 }
 const mediaFormatada = media.toFixed(1)
